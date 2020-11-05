@@ -1,8 +1,8 @@
 # Interview Scheduler
 Interview Scheduler allows user to create, edit, and delete interview appointments. 
-Front-end: HTML, CSS, React
-Back-end: Node, Express, SQL 
-Test: Jest, Storybook, Cypress 
+* Front-end: HTML, CSS, React
+* Back-end: Node, Express, SQL 
+* Test: Jest, Storybook, Cypress 
 
 ## Setup
 
