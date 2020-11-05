@@ -26,4 +26,4 @@ npm test
 npm run storybook
 ```
 ## How does it look? 
-![doc/scheduler.gif]()
+![doc/scheduler.gif](https://github.com/jesssubin/scheduler/blob/master/doc/Scheduler.gif)
